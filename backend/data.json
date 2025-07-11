@@ -1,0 +1,359 @@
+[
+  {
+    "name": "VS Code",
+    "description": "Popular code editor from Microsoft",
+    "category": "Editor",
+    "link": "https://code.visualstudio.com/",
+    "price": "Free"
+  },
+  {
+    "name": "Postman",
+    "description": "API testing and development platform",
+    "category": "API",
+    "link": "https://www.postman.com/",
+    "price": "Freemium"
+  },
+  {
+    "name": "GitHub",
+    "description": "Code hosting platform for version control and collaboration",
+    "category": "Collaboration",
+    "link": "https://github.com/",
+    "price": "Free"
+  },
+  {
+    "name": "Git",
+    "description": "Distributed version control system",
+    "category": "Version Control",
+    "link": "https://git-scm.com/",
+    "price": "Free"
+  },
+  {
+    "name": "Docker",
+    "description": "Container platform for building, sharing, and running apps",
+    "category": "DevOps",
+    "link": "https://www.docker.com/",
+    "price": "Free"
+  },
+  {
+    "name": "Jenkins",
+    "description": "Automation server for CI/CD",
+    "category": "CI/CD",
+    "link": "https://www.jenkins.io/",
+    "price": "Free"
+  },
+  {
+    "name": "Figma",
+    "description": "Collaborative interface design tool",
+    "category": "Design",
+    "link": "https://www.figma.com/",
+    "price": "Freemium"
+  },
+  {
+    "name": "Slack",
+    "description": "Team communication and collaboration platform",
+    "category": "Collaboration",
+    "link": "https://slack.com/",
+    "price": "Freemium"
+  },
+  {
+    "name": "Trello",
+    "description": "Project management tool",
+    "category": "Productivity",
+    "link": "https://trello.com/",
+    "price": "Freemium"
+  },
+  {
+    "name": "Notion",
+    "description": "All-in-one workspace for notes, tasks, and wikis",
+    "category": "Productivity",
+    "link": "https://www.notion.so/",
+    "price": "Freemium"
+  },
+  {
+    "name": "Sublime Text",
+    "description": "Sophisticated text editor for code, markup and prose",
+    "category": "Editor",
+    "link": "https://www.sublimetext.com/",
+    "price": "Paid"
+  },
+  {
+    "name": "PyCharm",
+    "description": "Python IDE by JetBrains",
+    "category": "Editor",
+    "link": "https://www.jetbrains.com/pycharm/",
+    "price": "Paid"
+  },
+  {
+    "name": "IntelliJ IDEA",
+    "description": "Java IDE by JetBrains",
+    "category": "Editor",
+    "link": "https://www.jetbrains.com/idea/",
+    "price": "Paid"
+  },
+  {
+    "name": "WebStorm",
+    "description": "JavaScript IDE by JetBrains",
+    "category": "Editor",
+    "link": "https://www.jetbrains.com/webstorm/",
+    "price": "Paid"
+  },
+  {
+    "name": "Bitbucket",
+    "description": "Git solution for teams",
+    "category": "Version Control",
+    "link": "https://bitbucket.org/",
+    "price": "Free"
+  },
+  {
+    "name": "Jira",
+    "description": "Agile project management tool",
+    "category": "Productivity",
+    "link": "https://www.atlassian.com/software/jira",
+    "price": "Paid"
+  },
+  {
+    "name": "CircleCI",
+    "description": "Continuous integration and delivery platform",
+    "category": "CI/CD",
+    "link": "https://circleci.com/",
+    "price": "Freemium"
+  },
+  {
+    "name": "Travis CI",
+    "description": "Continuous integration service",
+    "category": "CI/CD",
+    "link": "https://travis-ci.com/",
+    "price": "Freemium"
+  },
+  {
+    "name": "Heroku",
+    "description": "Cloud platform for deploying apps",
+    "category": "Cloud",
+    "link": "https://www.heroku.com/",
+    "price": "Freemium"
+  },
+  {
+    "name": "Netlify",
+    "description": "Platform for automating modern web projects",
+    "category": "Cloud",
+    "link": "https://www.netlify.com/",
+    "price": "Freemium"
+  },
+  {
+    "name": "Vercel",
+    "description": "Frontend cloud platform",
+    "category": "Cloud",
+    "link": "https://vercel.com/",
+    "price": "Freemium"
+  },
+  {
+    "name": "AWS Cloud9",
+    "description": "Cloud-based IDE from Amazon",
+    "category": "Cloud",
+    "link": "https://aws.amazon.com/cloud9/",
+    "price": "Freemium"
+  },
+  {
+    "name": "Google Cloud Platform",
+    "description": "Suite of cloud computing services",
+    "category": "Cloud",
+    "link": "https://cloud.google.com/",
+    "price": "Freemium"
+  },
+  {
+    "name": "Azure DevOps",
+    "description": "DevOps services for teams",
+    "category": "DevOps",
+    "link": "https://azure.microsoft.com/en-us/services/devops/",
+    "price": "Freemium"
+  },
+  {
+    "name": "Kubernetes",
+    "description": "Container orchestration platform",
+    "category": "DevOps",
+    "link": "https://kubernetes.io/",
+    "price": "Free"
+  },
+  {
+    "name": "Swagger",
+    "description": "API design and documentation platform",
+    "category": "API",
+    "link": "https://swagger.io/",
+    "price": "Freemium"
+  },
+  {
+    "name": "Insomnia",
+    "description": "API design platform and client",
+    "category": "API",
+    "link": "https://insomnia.rest/",
+    "price": "Freemium"
+  },
+  {
+    "name": "npm",
+    "description": "Package manager for JavaScript",
+    "category": "Package Manager",
+    "link": "https://www.npmjs.com/",
+    "price": "Free"
+  },
+  {
+    "name": "Yarn",
+    "description": "Fast, reliable, and secure dependency management",
+    "category": "Package Manager",
+    "link": "https://yarnpkg.com/",
+    "price": "Free"
+  },
+  {
+    "name": "Webpack",
+    "description": "Module bundler for JavaScript",
+    "category": "Build Tool",
+    "link": "https://webpack.js.org/",
+    "price": "Free"
+  },
+  {
+    "name": "ESLint",
+    "description": "Pluggable JavaScript linter",
+    "category": "Linting",
+    "link": "https://eslint.org/",
+    "price": "Free"
+  },
+  {
+    "name": "Stack Overflow",
+    "description": "Community-driven Q&A for developers",
+    "category": "Community",
+    "link": "https://stackoverflow.com/",
+    "price": "Free"
+  },
+  {
+    "name": "CodePen",
+    "description": "Online code editor and social development environment",
+    "category": "Editor",
+    "link": "https://codepen.io/",
+    "price": "Free"
+  },
+  {
+    "name": "Glitch",
+    "description": "Collaborative web app development platform",
+    "category": "Cloud",
+    "link": "https://glitch.com/",
+    "price": "Free"
+  },
+  {
+    "name": "Replit",
+    "description": "Online IDE and collaborative coding platform",
+    "category": "Editor",
+    "link": "https://replit.com/",
+    "price": "Freemium"
+  },
+  {
+    "name": "SourceTree",
+    "description": "Free Git GUI for Windows and Mac",
+    "category": "Version Control",
+    "link": "https://www.sourcetreeapp.com/",
+    "price": "Free"
+  },
+  {
+    "name": "Bitrise",
+    "description": "Mobile CI/CD for your whole team",
+    "category": "CI/CD",
+    "link": "https://www.bitrise.io/",
+    "price": "Freemium"
+  },
+  {
+    "name": "Codecov",
+    "description": "Code coverage reporting solution",
+    "category": "Testing",
+    "link": "https://about.codecov.io/",
+    "price": "Freemium"
+  },
+  {
+    "name": "SonarQube",
+    "description": "Continuous inspection of code quality",
+    "category": "Testing",
+    "link": "https://www.sonarqube.org/",
+    "price": "Free"
+  },
+  {
+    "name": "Jest",
+    "description": "Delightful JavaScript testing framework",
+    "category": "Testing",
+    "link": "https://jestjs.io/",
+    "price": "Free"
+  },
+  {
+    "name": "Mocha",
+    "description": "Feature-rich JavaScript test framework",
+    "category": "Testing",
+    "link": "https://mochajs.org/",
+    "price": "Free"
+  },
+  {
+    "name": "Cypress",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser",
+    "category": "Testing",
+    "link": "https://www.cypress.io/",
+    "price": "Freemium"
+  },
+  {
+    "name": "Snyk",
+    "description": "Find and fix vulnerabilities in open source dependencies",
+    "category": "Security",
+    "link": "https://snyk.io/",
+    "price": "Freemium"
+  },
+  {
+    "name": "Dependabot",
+    "description": "Automated dependency updates",
+    "category": "DevOps",
+    "link": "https://github.com/dependabot",
+    "price": "Free"
+  },
+  {
+    "name": "Prettier",
+    "description": "Opinionated code formatter",
+    "category": "Linting",
+    "link": "https://prettier.io/",
+    "price": "Free"
+  },
+  {
+    "name": "Lighthouse",
+    "description": "Open-source, automated tool for improving web page quality",
+    "category": "Testing",
+    "link": "https://developers.google.com/web/tools/lighthouse",
+    "price": "Free"
+  },
+  {
+    "name": "Canva",
+    "description": "Online design and publishing tool",
+    "category": "Design",
+    "link": "https://www.canva.com/",
+    "price": "Freemium"
+  },
+  {
+    "name": "Miro",
+    "description": "Online collaborative whiteboard platform",
+    "category": "Collaboration",
+    "link": "https://miro.com/",
+    "price": "Freemium"
+  },
+  {
+    "name": "Asana",
+    "description": "Work management platform for teams",
+    "category": "Productivity",
+    "link": "https://asana.com/",
+    "price": "Freemium"
+  },
+  {
+    "name": "ClickUp",
+    "description": "Productivity platform for teams",
+    "category": "Productivity",
+    "link": "https://clickup.com/",
+    "price": "Freemium"
+  },
+  {
+    "name": "Zoho Projects",
+    "description": "Project management software",
+    "category": "Productivity",
+    "link": "https://www.zoho.com/projects/",
+    "price": "Freemium"
+  }
+]
