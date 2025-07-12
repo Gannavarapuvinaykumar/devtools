@@ -9,19 +9,16 @@ function App() {
   const [filteredTools, setFilteredTools] = useState([]);
   const [loading, setLoading] = useState(false);
 
-  // Fetch tools from backend
-  const loadTools = () => {
+  // Fetch tools from Render backend
+  useEffect(() => {
     setLoading(true);
-    fetchTools()
+    fetch("https://devtools-backend-8yww.onrender.com/tools")
+      .then((res) => res.json())
       .then((data) => {
         setTools(data.tools);
         setFilteredTools(data.tools);
       })
       .finally(() => setLoading(false));
-  };
-
-  useEffect(() => {
-    loadTools();
   }, []);
 
   // Filter tools by search
