@@ -4,6 +4,13 @@ DevTool Hub is a modern web application that helps developers discover, compare,
 
 ---
 
+## 📡 Live Demo
+
+🌐 Frontend (Vercel): https://devtools-tau-rouge.vercel.app/
+🔗 Backend (Render): https://devtools-backend-8yww.onrender.com
+
+---
+
 ## 🚀 Features
 - Browse 40+ popular developer tools with categories, pricing, and descriptions
 - Beautiful animated UI with glassmorphism and interactive card effects
