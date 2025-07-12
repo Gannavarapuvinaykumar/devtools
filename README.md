@@ -1,4 +1,4 @@
-# DevTool Hub
+<img width="1919" height="1025" alt="Screenshot 2025-07-12 070124" src="https://github.com/user-attachments/assets/7e6ee9ee-2d25-488b-9152-037f0d748734" /># DevTool Hub
 
 DevTool Hub is a modern web application that helps developers discover, compare, and access the best developer tools across categories like Editors, CI/CD, Cloud, Productivity, and more. It features a beautiful glassmorphism UI, interactive animations, and a fast search experience.
 
@@ -10,12 +10,6 @@ DevTool Hub is a modern web application that helps developers discover, compare,
 - Fast search and filter by name, description, category, or price
 - One-click access to tool websites
 - Refresh tool list from backend (with scraping support)
-
----
-
-## 🖥️ Screenshot
-
-![DevTool Hub Screenshot](https://i.imgur.com/1Q9Qw2B.png)
 
 ---
 
@@ -76,7 +70,11 @@ frontend/
 
 ## ✨ Sample Output
 
-![Sample Output](https://i.imgur.com/1Q9Qw2B.png)
+<img width="1919" height="1025" alt="Screenshot 2025-07-12 070124" src="https://github.com/user-attachments/assets/4b505055-00fa-4363-9e75-ed8a9f0111f9" />
+
+<img width="1919" height="1018" alt="Screenshot 2025-07-12 070208" src="https://github.com/user-attachments/assets/22ef5c13-1627-4dfd-a625-f9c32d9abaad" />
+
+
 
 ---
 
